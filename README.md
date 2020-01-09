@@ -1,2 +1,2 @@
 # AI_assistant
-It is the a speech recognition desktop assistant which will do tasks that are set by the user
+It is  a speech recognition desktop assistant program which will do tasks that are set by the user, i had set some tasks like show time, open web browsers, lock you pc according to it you can add tasks.
